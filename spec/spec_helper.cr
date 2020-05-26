@@ -1,2 +1,2 @@
 require "spec"
-require "../src/json-minify"
+require "../src/json/minify"
